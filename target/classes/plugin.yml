@@ -1,0 +1,9 @@
+
+ name: NoTNTChain
+ version: 0.0.1
+ description: A nice no TNT chain plugin
+ # We could place every author in the authors list, but chose not to for illustrative purposes
+ # Also, having an author distinguishes that person as the project lead, and ensures their 
+ # name is displayed first
+ author: EmeraldExplorer (UltraX3 on GitHub) 
+ main: com.oneshotmc.troll.AntiTNTChain
